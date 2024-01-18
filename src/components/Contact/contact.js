@@ -19,7 +19,6 @@ const Contact = () => {
                 <button type='submit' value='Send' className='submitBtn'>Submit</button>
 
                 <div className='links'>
-                    <img src={Instagram} alt='Instagram Icon' className='link1'/>
                     <img src={LinkedIn} alt='LinkedIn Icon' className='link2'/>
                 </div>
             </form>
