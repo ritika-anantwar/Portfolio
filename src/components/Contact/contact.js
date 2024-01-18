@@ -19,7 +19,7 @@ const Contact = () => {
                 <button type='submit' value='Send' className='submitBtn'>Submit</button>
 
                 <div className='links'>
-                    <img src={LinkedIn} alt='LinkedIn Icon' className='link2'/>
+                    <a href='https://www.linkedin.com/in/ritika-anantwar-b846b3283/'><img src={LinkedIn} alt='LinkedIn Icon' className='link2'/></a>
                 </div>
             </form>
         </div>
